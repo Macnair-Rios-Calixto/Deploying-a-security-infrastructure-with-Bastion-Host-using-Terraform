@@ -5,8 +5,8 @@ az account set --subscription "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 #Set Variables for Storage account 
-RESOURCE_GROUP_NAME=dev-storage-rg
-STORAGE_ACCOUNT_NAME=stoprojcontosodevops
+RESOURCE_GROUP_NAME=RG-Storage
+STORAGE_ACCOUNT_NAME=stoprojterraform001
 CONTAINER_NAME=container
 
 
