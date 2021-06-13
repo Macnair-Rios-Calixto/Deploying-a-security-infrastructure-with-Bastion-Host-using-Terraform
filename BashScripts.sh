@@ -1,7 +1,7 @@
 #!/bin/bash
 #Conect and set Subscription Context in Azure
 az login
-az account set --subscription "6ca698bd-b0ea-4352-aab0-51f1871ae9c9"
+az account set --subscription "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 #Set Variables for Storage account 
